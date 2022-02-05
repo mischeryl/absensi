@@ -1,0 +1,24 @@
+.b {
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 2px;
+    color: black;
+    border: none;
+}
+
+.b:hover {
+    opacity: 0.9;
+    color: white;
+}
+
+.bEdit {
+    background-color: #ffc107;
+}
+
+.bHapus {
+    background-color: #dc3545;
+}
+
+.bSimpan {
+    background-color: #198754;
+}
